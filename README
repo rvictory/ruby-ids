@@ -1,1 +1,3 @@
-This file was created by JetBrains RubyMine 5.4.1 for binding GitHub repository
+Ruby IDS - Intrusion Detection in Ruby
+
+Ruby IDS provides a basic framework for creating an intrusion detection system with flexible rules written in ruby. The system is modular so new protocols can be added as needed. This is just a proof of concept, there is still much work that has to be done to make it ready for beta testing.
